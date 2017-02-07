@@ -14,6 +14,8 @@ A curated list of awesome photography resources.
 
 ## Publishers
 
+* [phaidon](http://uk.phaidon.com/store/photography/) - Mapplethorpe, Magnum, Steve McCurry and much more
+
 # Other Awesome Lists
 
 * [awesome](https://github.com/sindresorhus/awesome)
