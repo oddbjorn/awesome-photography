@@ -14,7 +14,9 @@ A curated list of awesome photography resources.
 
 ## Publishers
 
-* [phaidon](http://uk.phaidon.com/store/photography/) - Mapplethorpe, Magnum, Steve McCurry and much more
+* [Phaidon Press](http://uk.phaidon.com/store/photography/) - Mapplethorpe, Magnum, Steve McCurry and much more
+* [Taschen](https://www.taschen.com/pages/en/catalogue/photography/all.htm) - Sebastião Salgado
+* [Tames & Hudson](https://www.thamesandhudson.com/catph.html) - Sebastião Salgado
 
 # Other Awesome Lists
 
