@@ -6,9 +6,13 @@ A curated list of awesome photography resources.
 
 - [Awesome Photography](#awesome-)
     - [ABC](#abc)
+    - [Fine Art Printing](#fineart)
     - [Books](#books)
+      - [Publishers](#publishers)
 
 # Books
+
+## Publishers
 
 # Other Awesome Lists
 
