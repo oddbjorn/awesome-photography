@@ -6,10 +6,13 @@ A curated list of awesome photography resources.
 
 - [Awesome Photography](#awesome-)
     - [ABC](#abc)
+    - [Books](#books)
+
+# Books
 
 # Other Awesome Lists
 
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [awesome](https://github.com/sindresorhus/awesome)
 
 # Contributing
 Your contributions are always welcome!
